@@ -1,0 +1,14 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+
+    "@__BOTTOM_NAVIGATION_BAR__": {},
+    "bottomNavigationHomeLabel": "Home",
+    "bottomNavigationSettingsLabel": "Settings",
+
+    "@__LOGIN_PAGE__": {},
+    "loginPageLoginButtonLabel": "Login"
+}
